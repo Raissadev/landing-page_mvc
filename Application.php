@@ -1,6 +1,6 @@
 <?php
-    define('INCLUDE_PATH','http://localhost/Curso/Curso/Back-end/MVC%20e%20Rotas/');
-    define('INCLUDE_PATH_FULL','http://localhost/Curso/Curso/Back-end/MVC%20e%20Rotas/Views/pages/');
+    define('INCLUDE_PATH','http://localhost/');
+    define('INCLUDE_PATH_FULL','http://localhost/Views/pages/');
 
     class Application{
         public function executar(){
