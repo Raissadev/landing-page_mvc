@@ -16,8 +16,8 @@
   <li>Database: MySql</li>
 </ul>
 
-<h4>Autor</h4>
-<h5>Raissa Arcaro Daros</h5>
+<h3>Autor</h3>
+<h4>Raissa Arcaro Daros</h4>
 
 <h5>Midias Sociais</h5>
 <a href="https://www.instagram.com/raissa_dev/">Instagram</a>
