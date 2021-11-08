@@ -1,16 +1,19 @@
-# landing-page_mvc
-<h2>Sobre o Projeto</h2>
+# Landing Page MVC
+<h3>Sobre o Projeto</h3>
 <p>Essa landing page possui um layout atraente com fins de apresentação, e foi criada focando mais no sistema de rotas.</p>
-<h3>Front-end:</h3>
+
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JS</li>
-</ul>
-<h3>Back-end:</h3>
-<ul>
-  <li>PHP</li>
-  <li>Database: MySql</li>
+  <li>Lenguages:</li>
+  <i>PHP, JavaScript e SQL</i>
+  
+  <li>Database:</li>
+  <i>MySql</i>
+  
+  <li>Style:</li>
+  <i>Cascading Style Sheets</i>
+  
+  <li>Markup Language:</li>
+  <i>HTML</i>
 </ul>
 
 ![gif (2)](https://user-images.githubusercontent.com/82960240/138711298-3e381400-6ed7-43b3-87aa-ba838a475745.gif)
